@@ -20,7 +20,7 @@
  ┣   ┗ 📜 Documentacao
  ┣ 📂 src/   
  ┗ 📂 data/
-
+```
 ---
 
 ### 📖 Sobre o Projeto
