@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 [Projeto F]
+# 🌑 Project 3F (Triple F)
 
 *RPG Pixel Art 2D de Fantasia Folclórica e História do Brasil*
 
@@ -47,6 +47,42 @@ Estabelecemos metas fundamentais para o desenvolvimento inicial do projeto:
 
 ---
 
+⚙️ Requisitos Funcionais
+Abaixo estão os principais requisitos funcionais que guiam o escopo de desenvolvimento do sistema do jogo:
+
+* **RF1 - Sistema de Combate:** Mecânicas de ataque, defesa e esquiva responsivas e táticas.
+* **RF2 - Sistema de Movimentação:** Controles fluidos para exploração de biomas no estilo plataforma/metroidvania.
+* **RF3 - Sistema de Crafting (Criação):** O jogador deve poder combinar elementos da flora brasileira coletados no cenário (ervas, cipós, resinas) para criar curativos, armadilhas ou óleos para armas.
+* **RF4 - Sistema de Entidades:** Inteligência artificial e padrões de comportamento para inimigos comuns e chefes (entidades folclóricas).
+* **RF5 - Sistema de Colecionáveis:** Gerenciamento de itens de *lore*, documentos históricos e recursos ocultos pelo mapa.
+
+---
+
+### 🎨 Protótipo
+
+*Insira aqui imagens, GIFs ou links para o protótipo jogável, telas de UI/UX ou artes conceituais (Figma, Unity, Godot, etc).*
+
+![Tela Inicial - Placeholder](https://via.placeholder.com/800x400?text=Tela+Inicial+do+Jogo)
+
+![Gameplay - Placeholder](https://via.placeholder.com/800x400?text=Mockup+de+Gameplay)
+
+---
+
+### 📋 Product Backlog
+
+Acompanhamento das *User Stories* e entregas mapeadas para a primeira fase de desenvolvimento:
+
+| Rank | Prioridade | Resumo | User Story | Sprint | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Alta | Documentação e Escopo | Como membro da equipe, eu quero finalizar o DAN e o DDR para garantir que o escopo do projeto integrador está perfeitamente definido e alinhado. | 1 | Em Progresso |
+| 2 | Alta | Configuração do Repositório | Como desenvolvedor, eu quero configurar o repositório base (GitHub) e o motor de jogo para que a equipe possa colaborar e iniciar o versionamento de forma segura. | 1 | A Fazer |
+| 3 | Alta | Prototipação de Movimentação | Como jogador, eu quero poder andar, pular e interagir de forma básica com o cenário para testar a fluidez do sistema de movimentação (RF2). | 1 | A Fazer |
+| 4 | Alta | Concept Art e Identidade | Como artista, eu quero definir a paleta de cores e os primeiros esboços em *Pixel Art 2D* para estabelecer a atmosfera sombria do bioma inicial. | 1 | A Fazer |
+| 5 | Média | Esboço da Interface (HUD) | Como jogador, eu quero visualizar uma tela de interface minimalista (vida e energia) para focar na ação sem obstruções visuais. | 1 | A Fazer |
+| 6 | Média | Sistema de Combate Básico | Como jogador, eu quero ter acesso a uma mecânica de ataque simples para validar a capacidade de resposta (input lag) e a tática do sistema de combate (RF1). | 1 | A Fazer |
+
+---
+
 ## 👥 Equipe e Papéis
 
 | Nome | Papel / Função | Contato |
@@ -58,3 +94,9 @@ Estabelecemos metas fundamentais para o desenvolvimento inicial do projeto:
 | **Vitor Camargo** | Arquiteto de Software | vitor.co@sempreceub.com |
 
 ---
+
+### 📚 Referências
+
+* **Folclore e Mitologia:** *Câmara Cascudo, Dicionário do Folclore Brasileiro.*
+* **Referências de Gameplay:** *Hollow Knight (Movimentação e narrativa ambiental), Blasphemous (Tom maduro e combate).*
+* **Motor Gráfico:** *[Unity]*
