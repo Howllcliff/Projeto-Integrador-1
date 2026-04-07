@@ -60,7 +60,7 @@ Abaixo estão os principais requisitos funcionais que guiam o escopo de desenvol
 
 *Insira aqui imagens, GIFs ou links para o protótipo jogável, telas de UI/UX ou artes conceituais (Figma, Unity, Godot, etc).*
 
-![Tela Inicial -]
+Tela Inicial
 
 
 <img width="480" height="300" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/b8fda2ec-6315-43e8-b7a3-4179f98f2e4b" />
