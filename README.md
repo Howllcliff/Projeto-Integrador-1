@@ -1,5 +1,3 @@
-<img width="995" height="898" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/56ece4d3-c962-441b-8644-6588d4a0096f" /><div align="center">
-
 # 🌑 Project 3F (Triple F)
 
 *RPG Pixel Art 2D de Fantasia Folclórica e História do Brasil*
@@ -62,7 +60,7 @@ Abaixo estão os principais requisitos funcionais que guiam o escopo de desenvol
 
 *Insira aqui imagens, GIFs ou links para o protótipo jogável, telas de UI/UX ou artes conceituais (Figma, Unity, Godot, etc).*
 
-![Tela Inicial - <img width="995" height="898" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/b8fda2ec-6315-43e8-b7a3-4179f98f2e4b" />
+![Tela Inicial - <img width="497.5" height="449" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/b8fda2ec-6315-43e8-b7a3-4179f98f2e4b" />
 
 ![Gameplay - Placeholder](https://via.placeholder.com/800x400?text=Mockup+de+Gameplay)
 
