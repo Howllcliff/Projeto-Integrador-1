@@ -1,4 +1,4 @@
-<div align="center">
+<img width="995" height="898" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/56ece4d3-c962-441b-8644-6588d4a0096f" /><div align="center">
 
 # 🌑 Project 3F (Triple F)
 
@@ -62,7 +62,7 @@ Abaixo estão os principais requisitos funcionais que guiam o escopo de desenvol
 
 *Insira aqui imagens, GIFs ou links para o protótipo jogável, telas de UI/UX ou artes conceituais (Figma, Unity, Godot, etc).*
 
-![Tela Inicial - Placeholder](https://via.placeholder.com/800x400?text=Tela+Inicial+do+Jogo)
+![Tela Inicial - <img width="995" height="898" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/b8fda2ec-6315-43e8-b7a3-4179f98f2e4b" />
 
 ![Gameplay - Placeholder](https://via.placeholder.com/800x400?text=Mockup+de+Gameplay)
 
@@ -74,10 +74,10 @@ Acompanhamento das *User Stories* e entregas mapeadas para a primeira fase de de
 
 | Rank | Prioridade | Resumo | User Story | Sprint | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Alta | Documentação e Escopo | Como membro da equipe, eu quero finalizar o DAN e o DDR para garantir que o escopo do projeto integrador está perfeitamente definido e alinhado. | 1 | Em Progresso |
-| 2 | Alta | Configuração do Repositório | Como desenvolvedor, eu quero configurar o repositório base (GitHub) e o motor de jogo para que a equipe possa colaborar e iniciar o versionamento de forma segura. | 1 | A Fazer |
+| 1 | Alta | Documentação e Escopo | Como membro da equipe, eu quero finalizar o DAN e o DDR para garantir que o escopo do projeto integrador está perfeitamente definido e alinhado. | 1 | Finalizado |
+| 2 | Alta | Configuração do Repositório | Como desenvolvedor, eu quero configurar o repositório base (GitHub) e o motor de jogo para que a equipe possa colaborar e iniciar o versionamento de forma segura. | 1 | Em progresso |
 | 3 | Alta | Prototipação de Movimentação | Como jogador, eu quero poder andar, pular e interagir de forma básica com o cenário para testar a fluidez do sistema de movimentação (RF2). | 1 | A Fazer |
-| 4 | Alta | Concept Art e Identidade | Como artista, eu quero definir a paleta de cores e os primeiros esboços em *Pixel Art 2D* para estabelecer a atmosfera sombria do bioma inicial. | 1 | A Fazer |
+| 4 | Alta | Concept Art e Identidade | Como artista, eu quero definir a paleta de cores e os primeiros esboços em *Pixel Art 2D* para estabelecer a atmosfera sombria do bioma inicial. | 1 | Em progresso |
 | 5 | Média | Esboço da Interface (HUD) | Como jogador, eu quero visualizar uma tela de interface minimalista (vida e energia) para focar na ação sem obstruções visuais. | 1 | A Fazer |
 | 6 | Média | Sistema de Combate Básico | Como jogador, eu quero ter acesso a uma mecânica de ataque simples para validar a capacidade de resposta (input lag) e a tática do sistema de combate (RF1). | 1 | A Fazer |
 
